@@ -54,7 +54,6 @@ function Home() {
                     </div>
                 </div>
             </div>
-
             <Projects />
         </div>
     )
