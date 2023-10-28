@@ -22,7 +22,8 @@ function Home() {
                         <p className="text-xl sm:text-2xl font-semibold text-gray-900">
                             Mert Çetin
                         </p>
-                        <p className="text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2">
+                        <p className="text-xl sm:text-lg font-semibold pt-2 text-gray-600">Front-End Developer</p>
+                        <p className="text-xs sm:text-base text-gray-500 pt-4 pb-4 px-5 w-auto inline-block border-b-2">
                             Since 2022, I am a self-motivated and enthusiastic software developer. I want to be a good player who pursues a common goal, makes the team great. I always strive to reach the highest possible standard.
                         </p>
                         <div className="flex align-center justify-center mt-4">
