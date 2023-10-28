@@ -12,7 +12,7 @@ function Home() {
         <div>
             <Header />
             <div className="w-full">
-                <div className="flex flex-col mt-10 justify-center max-w-sm mx-auto bg-white shadow-xl rounded-xl p-5">
+                <div className="flex flex-col mt-10 justify-center max-w-md mx-auto bg-white shadow-xl rounded-xl p-5">
                     <div className="">
                         <img className="w-32 mx-auto shadow-2xl rounded-full"
                             src={PortfolioImg}

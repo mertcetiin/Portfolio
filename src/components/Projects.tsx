@@ -18,6 +18,7 @@ function Projects() {
                     <p className="">{item.info}</p>
                     <div className="mt-4 mb-8 flex flex-wrap justify-center items-center gap-2">
                         <div className="px-4 py-1 border-2 rounded-full">{item.skill}</div>
+                        <div className="px-4 py-1 border-2 rounded-full">{item.skill2}</div>
                     </div>
                 </div>
             )}
