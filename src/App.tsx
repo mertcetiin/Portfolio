@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <div>
+    <div className="min-h-screen py-10 px-3 sm:px-5 bg-gray-100">
       <Routes>
         <Route path='' element={<Home />} />
       </Routes>
