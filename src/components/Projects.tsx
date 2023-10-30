@@ -5,7 +5,7 @@ import { projectsData } from "./Data";
 function Projects() {
     return (
         <div>
-            <h1 className="mt-8 text-2xl md:text-4xl text-center font-extrabold">My projects</h1>
+            <h1 id="projects" className="mt-8 text-2xl md:text-4xl text-center font-extrabold">My projects</h1>
             {projectsData.map((item) =>
                 <div key={item.id} className="group w-full sm:w-1/2 m-4 mt-10 mx-auto p-6 rounded-xl border-2 border-gray-300">
                     <a href={item.link} target="e_blank">
