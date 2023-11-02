@@ -47,7 +47,7 @@ function Home() {
                             </a>
                             <a
                                 className="text-xl m-1 p-1 sm:m-2 sm:p-2 text-teal-500 hover:bg-teal-500 rounded-full hover:text-white transition-colors duration-300"
-                                href="https://mail.google.com/mail/?view=cm&fs=1&to=" target="e_blank">
+                                href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mrtctn506@gmail.com" target="e_blank">
                                 <FaRegEnvelope />
                                 <span className="sr-only">Email</span>
                             </a>
