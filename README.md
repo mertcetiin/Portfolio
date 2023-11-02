@@ -29,4 +29,5 @@ This project contains a React TSX application used to create my personal portfol
    npm install
    npm create vite@latest .
    npm install react-router-dom
+   npm install axios
    npm run dev
