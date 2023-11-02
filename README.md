@@ -1,8 +1,8 @@
 # React + TypeScript + Vite
 
-# 
+# Portfolio
 
-This project contains an e-commerce application created using React and TypeScript and developed with Zustand, a state management library.
+This project contains a React TSX application used to create my personal portfolio website.
 
 ## Project Screenshot
 
