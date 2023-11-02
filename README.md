@@ -13,7 +13,7 @@ This project contains a React TSX application used to create my personal portfol
 
 ## Project Link
 
-[Live Demo]()
+[Live Demo](https://portfolio-mertcetiin.vercel.app)
 
 
 ### Installation
