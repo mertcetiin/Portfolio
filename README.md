@@ -6,10 +6,9 @@ This project contains a React TSX application used to create my personal portfol
 
 ## Project Screenshot
 
-![image]()
+(![image](https://github.com/mertcetiin/Portfolio/assets/102957602/8769fab8-1c52-4cb1-93e6-337d5d8d73ab)
 
-![image]()
-
+![image](https://github.com/mertcetiin/Portfolio/assets/102957602/97776519-e005-4044-adee-ad97f0f1fe30)
 
 ## Project Link
 
