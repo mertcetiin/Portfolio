@@ -25,7 +25,6 @@ function Contact() {
         <div className="w-full">
             <div className="flex flex-col mt-60 justify-center max-w-md mx-auto bg-white shadow-xl rounded-xl p-5">
                 <form onSubmit={sendEmail} className="bg-white p-4 rounded-lg shadow-lg">
-
                     <div className="mb-4">
                         <input type="text" className="w-full py-2 px-3 rounded border" placeholder="Email" name="email" required />
                     </div>
