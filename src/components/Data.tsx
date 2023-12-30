@@ -29,6 +29,14 @@ export const projectsData: ProjectsInfo[] = [
     },
     {
         id: 3,
+        name: 'Movie-WebSite',
+        info: 'Movie is a web application developed using Next.js, offering users the opportunity to discover and review film information.',
+        skill: 'React.tsx',
+        skill2: 'Zustand',
+        link: 'https://github.com/mertcetiin/Movie-WebSite.git',
+    },
+    {
+        id: 4,
         name: 'TodoList',
         info: 'With this application, users can add new tasks, view and delete existing tasks.',
         skill: 'JavaScript',
